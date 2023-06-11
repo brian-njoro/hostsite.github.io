@@ -1,3 +1,49 @@
-html{
-    background-color: aqua;
+h1 {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: gold;
+    font-weight: bolder;
+}
+
+h2{
+    text-align: left;
+    font-weight: bold;
+    color: gold;
+}
+
+h3{
+    font-family: tilt prism;
+    font-weight: bold;
+    color:lawngreen;
+    text-align: center;
+    text-shadow:0ch;
+}
+
+body{
+    margin: 3cm;
+    background-image: url('code.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#emailAdress{
+    color: cornsilk;
+    font-weight: 600;
+}
+
+#phoneSection{
+    color: blanchedalmond;
+    font-weight: 600;
+}
+
+.aboutSection{
+    color: azure;
+}
+
+#homeAddress{
+    color:crimson;
+    font-size: 20px;
+    float:right;
 }
